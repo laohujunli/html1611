@@ -1,4 +1,4 @@
 function show(){
-	console.log("1");
-	console.log("2");
+	console.log("word");
+    var box=[1,2,3,4,5];
 }
