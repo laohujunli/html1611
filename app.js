@@ -1,4 +1,7 @@
 function show(){
-	console.log("1");
-	console.log("2");
+	console.log("hello");
+	var list = [];
+	for(var i=0;i<10;i++){
+		list.push(i);
+	}
 }
